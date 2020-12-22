@@ -25,7 +25,7 @@ SECRET_KEY = '4i&u(!%shd*0-3$ls)fohsjsd48t(gu%1-ch_wyzk7@#n3bd8e'
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True 
+DEBUG = True
 
 
 ALLOWED_HOSTS = ['15.237.57.104', 'localhost'] 
@@ -88,7 +88,7 @@ DATABASES = {
         'USER': 'u_disquaire', # attention : remplacez par votre nom d'utilisateur !!
         'PASSWORD': 'password123',
         'HOST': 'localhost',
-        'PORT': '5432',
+        'PORT': '5433',
     }
 }
 
